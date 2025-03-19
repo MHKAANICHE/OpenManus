@@ -9,6 +9,12 @@ English | [中文](README_zh.md) | [한국어](README_ko.md) | [日本語](READM
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &ensp;
 [![Discord Follow](https://dcbadge.vercel.app/api/server/DYn29wFk9z?style=flat)](https://discord.gg/DYn29wFk9z)
 
+# 👋 Hamdi Contribution
+
+Tutorial : https://www.youtube.com/watch?v=2qavT1OtTMI
+
+API KEY : https://aistudio.google.com/app/apikey
+
 # 👋 OpenManus
 
 Manus is incredible, but OpenManus can achieve any idea without an *Invite Code* 🛫!
